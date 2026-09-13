@@ -29,6 +29,8 @@ The Universal NACA 4-Digit Airfoil Generator is a Python application that genera
 ```text
 2412
 ```
+<img width="797" height="600" alt="image" src="https://github.com/user-attachments/assets/feb2e80f-60d5-4d96-8e2b-23ec28ab5b30" />
+
 
 ### Generated Outputs
 
